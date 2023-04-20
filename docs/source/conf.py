@@ -11,8 +11,7 @@ version = '0.1.0'
 
 # -- General configuration
 
-extensions = ['sphinx.ext.autosectionlabel', 'sphinxcontrib.plantuml',
-              'sphinxcontrib.moderncmakedomain' ]
+extensions = ['sphinx.ext.autosectionlabel', 'sphinxcontrib.plantuml' ]
 
 
 templates_path = ['_templates']
