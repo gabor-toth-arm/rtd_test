@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Lumache'
+project = 'asdasd'
 copyright = '2021, Graziella'
 author = 'Graziella'
 
@@ -17,7 +17,9 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
+    'sphinxcontrib.plantuml',
 ]
+
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
