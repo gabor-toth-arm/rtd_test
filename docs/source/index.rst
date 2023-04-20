@@ -15,6 +15,7 @@ how to :ref:`installation` the project.
 
 
 IDE kerül a plantuml:
+
 .. uml:: ./test.puml
 
 
